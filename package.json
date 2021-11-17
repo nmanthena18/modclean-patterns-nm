@@ -1,0 +1,33 @@
+{
+  "name": "modclean-patterns-nm",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Custome Patterns for ModClean ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmanthena18/modclean-patterns-nm.git"
+  },
+  "keywords": [
+    "modclean",
+    "module",
+    "cleanup",
+    "plugin",
+    "patterns",
+    "default",
+    "pattern",
+    "delete node module files"
+  ],
+  "author": "Naresh Manthena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmanthena18/modclean-patterns-nm/issues"
+  },
+  "homepage": "https://github.com/nmanthena18/modclean-patterns-nm.git#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}

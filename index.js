@@ -4,4 +4,4 @@
  */
 "use strict";
 
-module.exports = require('modclean-patterns-bsl/patterns');
+module.exports = require('modclean-patterns-nm/patterns');
